@@ -1,29 +1,21 @@
-# Ignore all generated files and folders
-generated_results/
-generated_similarity/
-generated_reports/
+# Ignore all contents inside the 'data' folder but keep the folder itself
+data/*
+!data/.gitkeep
 
-# Ignore confidential data
-data/
+# Ignore all contents inside the 'generated_results' folder but keep the folder itself
+generated_results/*
+!generated_results/.gitkeep
 
-# Ignore Python dependencies
+# Ignore all contents inside the 'generated_similarity' folder but keep the folder itself
+generated_similarity/*
+!generated_similarity/.gitkeep
+
+# Ignore dependencies (optional, if virtual environment or similar is being used)
+*.pyc
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
 *.env
-*.venv
-
-# Ignore virtual environment folders
-venv/
-env/
-
-# Ignore logs
 *.log
 
-# Ignore Jupyter Notebook checkpoints (if applicable)
-.ipynb_checkpoints/
-
-# Ignore operating system files
-.DS_Store
-Thumbs.db
+# Ignore the report files if dynamically generated
+*.html
+*.xlsx
