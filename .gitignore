@@ -10,6 +10,10 @@ generated_results/*
 generated_similarity/*
 !generated_similarity/.gitkeep
 
+# Ignore everything in generated_reports except .gitkeep
+generated_reports/*
+!generated_reports/.gitkeep
+
 # Ignore dependencies (optional, if virtual environment or similar is being used)
 *.pyc
 __pycache__/
