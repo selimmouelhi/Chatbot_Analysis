@@ -1,0 +1,318 @@
+[
+    {
+        "Question": "Hvad går jobbet ud på? Hvordan omdeler jeg?",
+        "Expected Answer": "I bund og grund handler jobbet om, at du skal omdele reklamer og aviser. Det sker ved, at vi leverer bundter med reklamer og aviser til dig, og så er det din opgave at sørge for, at de når ud til de rigtige husstande og postkasser.\n \n\n Der kan dog være stor forskel på, hvilken type rute du får og dermed også, hvordan arbejdsvilkårene er. Fælles for alle ruter er, at vi leverer reklamerne, så de ligger i den rigtige gangrækkefølge - en rækkefølge som du helt selv kan bestemme. Med reklamerne og aviserne følger der en seddel, hvorpå der står, hvad hver enkelt adresse skal have. Om de kun skal have aviser, om de skal have reklamer og aviser eller om de ingenting skal modtage. Dertil har vi på hvert sæt reklamer skrevet adresse på, så du ikke er i tvivl om, hvilket reklamesæt den respektive husstand skal have.\n \n\n Men der kan være forskel på, hvordan arbejdet udføres alt efter, om du bor på landet, i byen eller i et villakvarter.\n \n\n Når hver omdeling er overstået, skal du melde ind til os, at du er færdig med omdelingen samt fortælle os, om der har været nogle udfordringer undervejs. Når din omdeling er overstået, kan du vente på, at der igen kommer reklamer og aviser til omdeling."
+    },
+    {
+        "Question": "Hvornår får jeg leveret reklamer og aviser?",
+        "Expected Answer": "Reklamer og aviser leveres til din bopæl eller andet aftalt sted senest kl. 15.00 om onsdagen."
+    },
+    {
+        "Question": "Hvordan får jeg leveret reklamer og aviser?",
+        "Expected Answer": "Aviserne og reklamerne leveres som udgangspunkt på din hjemmeadresse, men der er mulighed for at aftale et alternativt leveringssted."
+    },
+    {
+        "Question": "Hvordan skal jeg omdele?",
+        "Expected Answer": "Vi stiller en trailer til rådighed, som du lægger de færdigpakkede reklamebundter og aviser i. Sørg for at pakke de sidste bundter nederst i traileren og de første i toppen, så de ligger i rækkefølge. Du kan vælge at gå med traileren eller den kan monteres på din cykel. Du omdeler ved hjælp af bundtoverliggeren og følger den planlagte rute. Bundtoverliggeren er en hvid seddel, der ligger øverst i hvert reklamebundt. På den står en række praktiske oplysninger, såsom bundtnummer, lønnummer, rutenummer, vægten på dine reklamer, adresser du skal omdele til, samt hvad den enkelte husstand skal modtage af reklamer og aviser. Der er numre på alle dine bundter med reklamer, så sørg altid for, at du starter med bundt nr. 1, og derefter omdeler dem i rækkefølge. Du kan også altid kigge på afleveringslisten, som du finder\n på blivomdeler.nu. På hvert omslag finder du adressen på den husstand, som skal modtage sættet med reklamer."
+    },
+    {
+        "Question": "Hvad gør jeg, hvis jeg ikke modtager aviser på min rute?",
+        "Expected Answer": "Hvis din rute ikke inkluderer aviser, vil det fremgå af bundtoverliggeren. Hvis din rute inkluderer aviser, og du ikke har modtaget disse, skal du kontakte din distributionsleder inden du påbegynder din omdeling. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99"
+    },
+    {
+        "Question": "Hvordan håndterer jeg Nej Tak-mærker?",
+        "Expected Answer": "Du skal omdele reklamer, uanset om der er et Nej Tak-mærke, hvis reklamesættet er adresseret til husstanden. Husk at kontrollere på bundtoverliggeren om husstanden skal modtage avis."
+    },
+    {
+        "Question": "Hvad gør jeg med overskydende reklamer og aviser?",
+        "Expected Answer": "Overskydende reklamer og aviser skal lægges i den udleverede plastiksæk, som chaufføren afhenter ved næste levering."
+    },
+    {
+        "Question": "Kan jeg få mere end én fast rute?",
+        "Expected Answer": "Ja du kan godt have mere end en rute. Indtil du har afsluttet 9.klasse må du max arbejde 2 timer pr. omdelingsdag, altså 4 timer om ugen - onsdag og torsdag er omdelingsdage. Kontakt din distributionsleder, hvis du ønsker flere faste ruter. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Hvem kan blive omdeler?",
+        "Expected Answer": "Alle der er fyldt 13 år har mulighed for at blive omdeler. Der er mange, der tænker, at omdelerjobbet kun er for unge under 18, men det er ikke korrekt. En stor procentdel af vores omdelere er faktisk over 18. Den ældste omdeler vi har er for eksempel 86 år. Din alder betyder altså ikke noget.\n Derudover er der mange forskellige årsager til at være omdeler. Ser vi på dem over 18 år, er det alt fra studerende, pensionister til personer med fuldtidsjob. \n Fælles for dem alle er, at de enten bruger det som en ekstra indtægt til at supplere SU’en, pensionen eller den normale løn, men vi har faktisk også voksne, der har det som et deltidsjob og derfor arbejder flere dage om ugen som omdeler.\n Vi kan derfor sagtens sige, at dette job er for alle aldre."
+    },
+    {
+        "Question": "Er der mulighed for fuldtidsarbejde som omdeler?",
+        "Expected Answer": "Nej. Timetallet kommer desværre aldrig op i nærheden af 37 timer om ugen, idet der kun er omdeling onsdag og torsdag"
+    },
+    {
+        "Question": "Kan man søge ruter i andre postnumre end ens eget?",
+        "Expected Answer": "Ja det kan man godt. Kontakt din distributionsleder, hvis du ønsker en fast rute i et andet postnummer. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Hvad hvis jeg bruger længere tid på ruten, end I har beregnet?",
+        "Expected Answer": "Det er vores erfaring, at tiden passer. Hvis du oplever noget andet, så tager vi meget gerne en dialog om hvordan vi får tid og løn til at passe sammen, da man selvfølgelig skal have løn for den tid man arbejder. Kontakt din distributionsleder, så vi kan hjælpe dig til at nå ruten inden for den afsatte tid. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Kan man arbejde hver anden uge?",
+        "Expected Answer": "Nej. Det kan ikke lade sig gøre rent logistisk at skifte rundt fast hver anden uge, så jobbet er hver uge"
+    },
+    {
+        "Question": "Kan der være to omdelere på samme rute?",
+        "Expected Answer": "Nej, vi kan kun ansætte én omdeler pr. rute. Hvis du gerne vil omdele med en ven, kan det være at vi på sigt kan finde to ruter i forlængelse af hinanden, hvis I gerne vil følges. Du må gerne få hjælp af en ven på din egen rute, men det er dig der har det endelige ansvar for at ruten omdeles korrekt. Kontakt din distributionsleder, hvis du har spørgsmål til dette. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Skal jeg selv pakke mine reklamer og aviser?",
+        "Expected Answer": "Nej, reklamerne er pakket og klar til omdeling, og aviserne kommer ved siden af. Du skal blot lægge aviser og reklamer i traileren, sørg for at de første bundter ligger øverst i traileren, så du kan tage dem i den rigtige rækkefølge."
+    },
+    {
+        "Question": "Hvor mange timer må jeg arbejde som 15-17-årig?",
+        "Expected Answer": "Du må arbejde 2 timer om dagen, hvis du går i folkeskole (indtil du har afsluttet 9.klasse)\n - Hvis du har fri fra skolen på hverdage eller i weekenden, må du arbejde 8 timer om dagen - Hvis du har afsluttet 9.klasse må du i alt arbejde 8 timer om dagen."
+    },
+    {
+        "Question": "Hvor mange timer må jeg arbejde som 13-14-årig?",
+        "Expected Answer": "Du må arbejde 2 timer om dagen, hvis du går i folkeskole (indtil du har afsluttet 9.klasse)\n - Hvis du har fri fra skolen på hverdage eller i weekenden, må du arbejde 8 timer om dagen."
+    },
+    {
+        "Question": "Hvordan siger man op?",
+        "Expected Answer": "Når du ikke længere ønsker at omdele for FK Distribution, skal du kontakte din distributionsleder eller depotleder. Her aftaler I sammen, hvornår du skal omdele sidste gang. Husk du har en opsigelsesfrist – den er på 21 dage. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Må man gå med sin hund mens man omdeler?",
+        "Expected Answer": "Det ser vi intet galt i, så længe du har godt styr på din hund og den ikke er aggressiv hund. Du har selv ansvaret for din hunds opførsel."
+    },
+    {
+        "Question": "Hvad hvis ikke man har et overdækket område aviserne kan leveres til?",
+        "Expected Answer": "Det hele kan leveres pakket ind i plastik, så vi kan sagtens levere reklamer og aviser til dig, selvom du ikke har et overdækket område. Kontakt din distributionsleder, hvis du har spørgsmål til levering af dine reklamer og aviser. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Skal man erstatte de ting, man mister?",
+        "Expected Answer": "Nej, man kommer ikke til at betale for tingene, hvis de bliver væk. Vi forventer,at du passer på de arbejdsredskaber, vi stiller til rådighed imens du er ansat hos os. Du skal låse din trailer fast og opbevare din bundtåbner forsvarligt."
+    },
+    {
+        "Question": "Kan man benytte scooter til jobbet?",
+        "Expected Answer": "Det kan man godt, hvis ruten er til det i forhold til kørselsforhold til postkasserne.\n \n\n Vi har i nogle tilfælde cykeltasker, som du kan bruge, hvis de passer til din scooter. Ellers står man selv for at få fragtet aviserne. Kontakt din distributionsleder for at høre om mulighederne. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Kan jeg være omdeler, hvis jeg sidder i kørestol?",
+        "Expected Answer": "Det er svært at give et helt entydigt svar på. Kontakt din distributionsleder for at høre mere. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Hvordan kommer man ind i en aflåst opgang/lejlighedskompleks?",
+        "Expected Answer": "Det er et svært spørgsmål at give et endegyldigt svar på, da det afhænger af mulighederne for den enkelte opgang.\n \n\n Nogle opgange er altid åbne\n Nogle opgange er åbne i bestemte tidsrum\n Nogle opgange har vi dørkode eller nøgle til\n Nogle opgange bruger vi Bekey til (nøgleapp til din smartphone)\n Vi ringer altid på ved en låste opgange, hvor der ikke er udleveret kode, nøgle eller opgange der ikke har Bekeyadgang."
+    },
+    {
+        "Question": "Hvad hvis jeg bruger længere tid på ruten, end I har beregnet?",
+        "Expected Answer": "Det er vores erfaring, at tiden passer. Hvis du oplever noget andet, så tager vi meget gerne en dialog om hvordan vi får tid og løn til at passe sammen, da man selvfølgelig skal have løn for den tid man arbejder. Kontakt din distributionsleder, så vi kan hjælpe dig til at nå ruten inden for den afsatte tid. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Hvornår får jeg løn?",
+        "Expected Answer": "Lønnen bliver udbetalt hver d. 10. i måneden eller sidste bankdag inden d. 10."
+    },
+    {
+        "Question": "Kan jeg forberede mig inden min omdeling?",
+        "Expected Answer": "Ja, hver uge kan du se hvad du skal omdelere på blivomdeler.nu under Omdelingsinformation eller som information til dine ruter her i appen."
+    },
+    {
+        "Question": "Hvordan forbereder jeg mig inden min første omdeling?",
+        "Expected Answer": "Du læser det velkomstmateriale du har modtaget fra os og ser alle videoerguides i dit onboardingforløb i appen, som du finder på forsiden. Har du spørgsmål udover det, er du selvfølgelig altid velkommen til at kontakte os. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Koster det penge at skrive til jer på 1914 / slutmelde via sms?",
+        "Expected Answer": "Nej, det er et 8 cifret nummer der er forkortet til et 4 cifret. Det er gratis at skrive til 1914."
+    },
+    {
+        "Question": "Hvad gør jeg hvis en husstand henvender sig til mig på ruten?",
+        "Expected Answer": "Du svarer så godt du kan, eller henviser dem til at kontakte FK på 7010 4000. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99"
+    },
+    {
+        "Question": "Er det sikkert at åbne de links i sender til mig?",
+        "Expected Answer": "Ja, når de kommer fra 1914 er det sikkert at åbne."
+    },
+    {
+        "Question": "Hvad er en APV?",
+        "Expected Answer": "En APV er en arbejdspladsvurdering, som vi sender ud til vores omdelere når de har været ansat i 3 måneder. Det gør vi for at sikre, at jobbet er så godt som muligt for dig og andre, og at vi følger de regler der er i arbejdsmiljøloven."
+    },
+    {
+        "Question": "Hvad sker der hvis jeg laver en fejl?",
+        "Expected Answer": "Så skal du fortælle det til din distributionsleder, og sammen kan I tage en snak om, hvordan I finder en løsning. Kontakt din distributionsleder. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Hvad gør jeg hvis jeg bliver syg?",
+        "Expected Answer": "Så skal du ringe til din distributionsleder hurtigst muligt. Du kan ringe til os på 70 10 40 00"
+    },
+    {
+        "Question": "Hvad gør jeg hvis jeg skal holde ferie?",
+        "Expected Answer": "Det skal du melde ind i feriekalenderen på blivomdeler.nu senest 3 uger før du skal holde fri."
+    },
+    {
+        "Question": "Jeg har ikke fået det jeg har bestilt i gaveshoppen, hvad gør jeg?",
+        "Expected Answer": "Hvis ikke du har modtaget det du har bestilt fra gaveshoppen, skal du tjekke bekræftelsen på din bestilling og herefter kan du tage kontakt til bestilling@bonuz.dk"
+    },
+    {
+        "Question": "Hvorfor har jeg betalt skat",
+        "Expected Answer": "Hvis du mod forventning har betalt skat af din løn, skyldes det enten at dit frikort ikke er aktiveret eller at du har opbrugt dit frikort"
+    },
+    {
+        "Question": "Hvordan får jeg mine feriepenge udbetalt",
+        "Expected Answer": "Du skal gå på borger.dk og følge anvisningen, for at få udbetalt dine feriepenge"
+    },
+    {
+        "Question": "Hvordan låner jeg en trailer?",
+        "Expected Answer": "Du kan låne en trailer til din omdeling, som vil blive leveret til din adresse inden din første omdeling."
+    },
+    {
+        "Question": "Hvor stor er vognen/traileren?",
+        "Expected Answer": "Traileren har følgende mål:\n \n\n Højde: 62 cm\n Bredde: 60 cm\n Længde: 80 cm"
+    },
+    {
+        "Question": "Hvad gør jeg, hvis traileren går i stykker?",
+        "Expected Answer": "Ring til os, så sørger vi for reparation eller ombytning. Du kan ringe til os på 70 10 40 00"
+    },
+    {
+        "Question": "Min trailer er blevet stjålet, hvad gør jeg?",
+        "Expected Answer": "Det er hvad der kan ske. Ring til os, så finder vi en løsning. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99"
+    },
+    {
+        "Question": "Jeg har ikke modtaget min trailer før min første omdeling",
+        "Expected Answer": "Ring til os, så finder vi en løsning. Du kan ringe til os på 70 10 40 00."
+    },
+    {
+        "Question": "Hvordan tjekker jeg, at jeg har modtaget det rigtige antal reklamer og aviser?",
+        "Expected Answer": "På bundtoverliggeren kan du se antallet af reklamebundter og aviser du skal omdele. Før hver omdeling er det vigtigt at kontrollere, at du har modtaget det korrekte antal reklamebundter og aviser. Hvis noget mangler, skal du kontakte din distributionsleder. Du kan ringe til os på 70 10 40 00. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99"
+    },
+    {
+        "Question": "Hvad er en bundtoverligger?",
+        "Expected Answer": "På hvert reklamebundt ligger der en hvid seddel øverst. Den kalder vi en bundtoverligger. På den står en række praktiske oplysninger, såsom lønnummer, rutenummer, bundtnummer, vægten på dine reklamer, adresser du skal omdele til, samt hvad den enkelte husstand skal modtage af reklamer\n og aviser. Der er numre på alle dine bundter med reklamer, så sørg altid for, at du starter med bundt nr. 1, og derefter omdeler dem i rækkefølge. Du kan også altid kigge på afleveringslisten, som du finder\n på blivomdeler.nu. På hvert omslag finder du adressen på den husstand, som skal modtage sættet med reklamer."
+    },
+    {
+        "Question": "Hvad er gangrækkefølge?",
+        "Expected Answer": "Gangrækkefølge er den rækkefølge, reklamerne pakkes i, og dermed den rækkefølge du skal tage husstandene efter ude på ruten. Du kan godkende eller ændre rækkefølgen her https://blivomdeler.nu/min-omdeling/gangraekkefoelge/"
+    },
+    {
+        "Question": "Hvordan ændrer jeg min gangrækkefølge?",
+        "Expected Answer": "Se hvordan du ændrer din gangrækkefølge her: https://blivomdeler.nu/min-omdeling/gangraekkefoelge/"
+    },
+    {
+        "Question": "Hvordan rapporterer jeg problemer på min rute?",
+        "Expected Answer": "Brug funktionen ”Rutemelding” i appen for at rapportere problemer som f.eks. fyldte postkasser eller løse hunde. Du kan rutemelde fra forsiden eller via rutekortet."
+    },
+    {
+        "Question": "Jeg mangler et sæt reklamer, hvad gør jeg?",
+        "Expected Answer": "Det melder du ind som rutemelding. Du kan rutemelde fra forsiden eller via rutekortet."
+    },
+    {
+        "Question": "Jeg mangler et reklamebundt, hvad gør jeg?",
+        "Expected Answer": "Du kontakter din distributionsleder. Du kan ringe til os på 70 10 40 00. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99"
+    },
+    {
+        "Question": "Jeg kan ikke omdele, fordi der er en løs hund, hvad gør jeg?",
+        "Expected Answer": "Hvis det er utrygt at gå til postkassen, skal du passe på dig selv og melde det ind i rutemelding. Hvis du har haft en utryg oplevelse på din rute, skal du endelig tage kontakt til din distributionsleder. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99"
+    },
+    {
+        "Question": "Postkassen er fyldt, hvad gør jeg?",
+        "Expected Answer": "Du melder det ind i rutemelding, og tager sættet med retur. Når du kommer hjem, lægger du alt overskud i den udleverede plastikpose, så tager vores chauffør det med retur når der leveres ved dig næste gang."
+    },
+    {
+        "Question": "Hvordan slutmelder jeg min rute?",
+        "Expected Answer": "Du kan slutmelde fra forsiden eller rutekortet i appen eller sende en SMS med ordet ”slut” til 1914"
+    },
+    {
+        "Question": "Hvorfor skal jeg slutmelde?",
+        "Expected Answer": "Det er vigtigt, at du slutmelder din rute efter hver omdeling, da vi bruger oplysningerne i vores ugentlige kvalitetsundersøgelser. Du kan slutmelde fra forsiden eller rutekortet i appen eller sende en SMS med ordet ”slut” til 1914 , så snart du er har færdigomdelt."
+    },
+    {
+        "Question": "Hvordan søger jeg ekstraruter/afløserruter?",
+        "Expected Answer": "Du kan altid se, om der er ledige ekstraruter i nærheden af dig her https://blivomdeler.nu/min-side/x-tra-ruter/. Her kan du ønske en ekstra rute - bemærk du ikke er tildelt ruten, før du har fået besked fra din distributionsleder."
+    },
+    {
+        "Question": "Kan jeg tage ekstra vagter?",
+        "Expected Answer": "Du kan altid se, om der er ledige ekstraruter i nærheden af dig her https://blivomdeler.nu/min-side/x-tra-ruter/. Her kan du ønske en ekstrarute - bemærk du ikke er tildelt ruten, før du har fået besked fra din distributionsleder."
+    },
+    {
+        "Question": "Hvem kontakter jeg, hvis jeg har spørgsmål?",
+        "Expected Answer": "Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914:\n Mandag - torsdag kl. 08:30 - 16.00\n Fredag kl. 08:30 - 15.30\n Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99"
+    },
+    {
+        "Question": "Hvordan kontakter jeg FK Distribution?",
+        "Expected Answer": "Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914:\n Mandag - torsdag kl. 08:30 - 16.00\n Fredag kl. 08:30 - 15.30\n Ved akutte problemer på omdelingsdage (onsdag og torsdag), kan du ringe til akuttelefonen på 70 60 30 99 kl. 16.00-20.00."
+    },
+    {
+        "Question": "Hvornår kan jeg ringe til min distributionsleder?",
+        "Expected Answer": "Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914:\n Mandag - torsdag kl. 08:30 - 16.00\n Fredag kl. 08:30 - 15.30\n Ved akutte problemer på omdelingsdage (onsdag og torsdag), kan du ringe til akuttelefonen på 70 60 30 99 kl. 16.00-20.00."
+    },
+    {
+        "Question": "Hvad gør jeg, hvis jeg mangler reklamebundter eller har andre problemer?",
+        "Expected Answer": "Kontakt os hurtigst muligt, så vi kan løse problemet. Ring til os på 70 10 40 00 eller send en sms til 1914:\n Mandag - torsdag kl. 08:30 - 16.00\n Fredag kl. 08:30 - 15.30\n På omdelingsdage (onsdag og torsdag) kl. 16.00 - 20.00 kan du ringe til akuttelefonen på 70 60 30 99"
+    },
+    {
+        "Question": "Jeg har været ude for et uheld, hvad gør jeg?",
+        "Expected Answer": "Hvis du uheldigvis kommer ud for en arbejdsskade, skal du kontakte din distributionsleder, der sørger for at hjælpe dig med en eventuel anmeldelse, og som orienterer dine arbejdsmiljørepræsentanter. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99"
+    },
+    {
+        "Question": "Jeg har fået en arbejdsskade, hvad gør jeg?",
+        "Expected Answer": "Hvis du uheldigvis kommer ud for en arbejdsskade, skal du kontakte din distributionsleder, der sørger for at hjælpe dig med en eventuel anmeldelse, og som orienterer dine arbejdsmiljørepræsentanter. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99"
+    },
+    {
+        "Question": "Hvordan logger jeg ind på blivomdeler.nu?",
+        "Expected Answer": "Du bruger dit lønnummer og adgangskode. Hvis du har glemt din adgangskode, kan du få tilsendt en midlertidig kode. Klik på \"Har du glemt din adgangskode?\" ved log ind"
+    },
+    {
+        "Question": "Jeg har glemt min adgangskode til blivomdeler.nu, hvad gør jeg?",
+        "Expected Answer": "Hvis du har glemt din adgangskode, kan du få tilsendt en midlertidig kode ved at trykke på \"Glemt adgangskode\""
+    },
+    {
+        "Question": "Hvad tjener jeg i gennemsnit om måneden?",
+        "Expected Answer": "Jeg kan ikke fortælle et decideret gennemsnit, da det afhænger af hvor lang din rute er, hvor mange ruter du har, mængden af reklamer/aviser på hver enkelt omdeling og andre faktorer."
+    },
+    {
+        "Question": "Hvor tit får jeg løn?",
+        "Expected Answer": "Lønnen udbetales en gang om måneden, og er på din konto den 10. dag i hver måned."
+    },
+    {
+        "Question": "Hvornår får jeg udbetalt løn?",
+        "Expected Answer": "Lønnen udbetales en gang om måneden, og er på din konto den 10. dag i hver måned."
+    },
+    {
+        "Question": "Optjener jeg feriepenge?",
+        "Expected Answer": "Ja, der optjenes 12,5 % i feriepenge oveni lønnen."
+    },
+    {
+        "Question": "Kan I betale løn til udenlandsk konto eller skal man have en dansk bankkonto?",
+        "Expected Answer": "Vi udbetaler kun til danske konti"
+    },
+    {
+        "Question": "Jeg har et \"socialt frikort\" kan man bruge det hos jer? (Dvs. man ikke skal betale skat)",
+        "Expected Answer": "Ja det kan du godt. Kontakt os for yderligere information. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Indebetales der til pension og fritvalgskonto?",
+        "Expected Answer": "Der indbetales ikke til pension eller fritvalgskonto"
+    },
+    {
+        "Question": "Hvordan er jeg forsikret?",
+        "Expected Answer": "Som omdeler hos os er du forsikret, mens du arbejder. Du er omfattet af en lovpligtig arbejdsskadeforsikring og en ansvarsforsikring. Arbejdsskadeforsikringen omfatter skade på din person sket ved en ulykke. Ulykken skal ske, mens du arbejder og være en følge af de forhold, arbejdet foregår under. Ansvarsforsikringen omfatter skader, du måtte påføre andre (person- og/eller tingskade), under udførelsen af dit arbejde. Sker der en skade, skal du straks kontakte din distributionsleder og informere om det. Det er en god idé at skrive tid og sted ned og evt. tage et billede af skaden, hvis det er muligt. Påtag dig aldrig ansvaret for skaden, men henvis til FK Distribution og vores forsikringsselskab, som er IF Skadeforsikring."
+    },
+    {
+        "Question": "Hvordan får jeg udbetalt feriepenge?",
+        "Expected Answer": "Du optjener dine feriepenge løbende hos os, og vi afregner feriepengene til Feriekonto hver måned. Når du ønsker at bestille dine feriepenge, skal du tilgå dette link www.borger.dk/feriepenge og følge anvisningerne.\n \n\n Har du brug for hjælp vedrørende bestillingen via linket, skal du kontakte Feriekonto på tlf.: 7011 4910.\n \n\n Hvis du bliver bedt om at oplyse FK Distributions CVR-nummer (eller SE-nummer), er nummeret følgende: 26 89 97 37\n Hvis du er omdeler på Fyn, skal du oplyse dette CVR-nummer (eller SE-nummer): 27 16 77 80\n \n\n Vær opmærksom på, at du betaler AM-bidrag (8%) og evt. skat af dine feriepenge."
+    },
+    {
+        "Question": "Hvordan får man en anbefaling?",
+        "Expected Answer": "Hos FK Distribution giver vi meget gerne vores omdelere en anbefaling med på vejen, når de stopper med jobbet som omdeler. Dog kræver det, at du som omdeler har gjort en god indsats i dit job som omdeler samt været ansat i en længere periode hos os.\n Der kommer en anbefaling til dig, hvis du har opfyldt ovenstående kriterier, kort efter din sidste omdeling."
+    },
+    {
+        "Question": "Hvem er min arbejdsmiljørepræsentant?",
+        "Expected Answer": "Hvis du har spørgsmål til din arbejdspladsvurdering (APV) eller det generelle arbejdsmiljø, skal du kontakte en af dine arbejdsmiljørepræsentanter: Gitte Hansen eller Monica Rygaard Sjørup på arbejdsmiljo.omdeler@fk.dk"
+    },
+    {
+        "Question": "Hvad gør jeg, hvis jeg er syg?",
+        "Expected Answer": "Ring til din distributionsleder lige så snart du ved, at du ikke er i stand til at omdele din rute. Du kan ringe til os på 70 10 40 00. Du kan evt. spørge din familie og venner, om de kan hjælpe, inden du ringer til os."
+    },
+    {
+        "Question": "Hvordan melder jeg ferie?",
+        "Expected Answer": "Meld ferie via https://blivomdeler.nu/min-side/meld-ferie/ eller ring til din distributionsleder senest 3 uger før, du skal have fri, så vi kan nå at finde\n en afløser til din rute. Måske du selv har en afløser, som kan hjælpe. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Jeg skal have fri, hvad gør jeg?",
+        "Expected Answer": "Meld fridage ind via https://blivomdeler.nu/min-side/meld-ferie/ eller ring til din distributionsleder senest 3 uger før, du skal have fri, så vi kan nå at finde en afløser til din rute. Måske du selv har en afløser, som kan hjælpe. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914"
+    },
+    {
+        "Question": "Hvornår skal jeg senest melde ferie?",
+        "Expected Answer": "Det er meget vigtigt for os at få feriemeldinger ind i så god tid som muligt.\n Du skal melde ferie senest 3 uger før din ferie, så vi kan nå at finde en afløser til din rute. Måske du selv har en afløser, som kan hjælpe? Du kan melde ferie ind via via https://blivomdeler.nu/min-side/meld-ferie/ eller ringe til os på 70 10 40 00"
+    }
+]

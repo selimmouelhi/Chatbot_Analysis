@@ -1,0 +1,731 @@
+[
+    {
+        "question_postman": "Hvad går jobbet ud på?",
+        "answer_chatbot": "Jobbet går ud på at omdele reklamer og aviser, som leveres til dig i bundter. Din opgave er at sikre, at de når ud til de rigtige husstande og postkasser. Der kan være forskel på, hvordan arbejdet udføres, afhængigt af om du bor på landet, i byen eller i et villakvarter.",
+        "question_excel": "Hvad går jobbet ud på? Hvordan omdeler jeg?",
+        "expected_answer": "I bund og grund handler jobbet om, at du skal omdele reklamer og aviser. Det sker ved, at vi leverer bundter med reklamer og aviser til dig, og så er det din opgave at sørge for, at de når ud til de rigtige husstande og postkasser.\n \n\n Der kan dog være stor forskel på, hvilken type rute du får og dermed også, hvordan arbejdsvilkårene er. Fælles for alle ruter er, at vi leverer reklamerne, så de ligger i den rigtige gangrækkefølge - en rækkefølge som du helt selv kan bestemme. Med reklamerne og aviserne følger der en seddel, hvorpå der står, hvad hver enkelt adresse skal have. Om de kun skal have aviser, om de skal have reklamer og aviser eller om de ingenting skal modtage. Dertil har vi på hvert sæt reklamer skrevet adresse på, så du ikke er i tvivl om, hvilket reklamesæt den respektive husstand skal have.\n \n\n Men der kan være forskel på, hvordan arbejdet udføres alt efter, om du bor på landet, i byen eller i et villakvarter.\n \n\n Når hver omdeling er overstået, skal du melde ind til os, at du er færdig med omdelingen samt fortælle os, om der har været nogle udfordringer undervejs. Når din omdeling er overstået, kan du vente på, at der igen kommer reklamer og aviser til omdeling.",
+        "question_similarity": "85.31%",
+        "answer_similarity": "88.64%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan omdeler jeg? ",
+        "answer_chatbot": "Du skal omdele ved hjælp af en trailer, som du kan gå med eller montere på din cykel. Reklamebundterne og aviserne skal lægges i traileren i den rækkefølge, de skal omdeles, og du skal følge den planlagte rute ved hjælp af bundtoverliggeren, som indeholder praktiske oplysninger om ruten. Sørg for at starte med bundt nr. 1 og omdele dem i rækkefølge.",
+        "question_excel": "Hvordan skal jeg omdele?",
+        "expected_answer": "Vi stiller en trailer til rådighed, som du lægger de færdigpakkede reklamebundter og aviser i. Sørg for at pakke de sidste bundter nederst i traileren og de første i toppen, så de ligger i rækkefølge. Du kan vælge at gå med traileren eller den kan monteres på din cykel. Du omdeler ved hjælp af bundtoverliggeren og følger den planlagte rute. Bundtoverliggeren er en hvid seddel, der ligger øverst i hvert reklamebundt. På den står en række praktiske oplysninger, såsom bundtnummer, lønnummer, rutenummer, vægten på dine reklamer, adresser du skal omdele til, samt hvad den enkelte husstand skal modtage af reklamer og aviser. Der er numre på alle dine bundter med reklamer, så sørg altid for, at du starter med bundt nr. 1, og derefter omdeler dem i rækkefølge. Du kan også altid kigge på afleveringslisten, som du finder\n på blivomdeler.nu. På hvert omslag finder du adressen på den husstand, som skal modtage sættet med reklamer.",
+        "question_similarity": "94.09%",
+        "answer_similarity": "86.82%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad går jobbet ud på? Hvordan omdeler jeg? ",
+        "answer_chatbot": "Jobbet går ud på at omdele reklamer og aviser, som leveres til dig i bundter. Din opgave er at sikre, at de når ud til de rigtige husstande og postkasser. Du skal omdele ved hjælp af en trailer, som du kan gå med eller montere på din cykel, og følge den planlagte rute ved hjælp af bundtoverliggeren.",
+        "question_excel": "Hvad går jobbet ud på? Hvordan omdeler jeg?",
+        "expected_answer": "I bund og grund handler jobbet om, at du skal omdele reklamer og aviser. Det sker ved, at vi leverer bundter med reklamer og aviser til dig, og så er det din opgave at sørge for, at de når ud til de rigtige husstande og postkasser.\n \n\n Der kan dog være stor forskel på, hvilken type rute du får og dermed også, hvordan arbejdsvilkårene er. Fælles for alle ruter er, at vi leverer reklamerne, så de ligger i den rigtige gangrækkefølge - en rækkefølge som du helt selv kan bestemme. Med reklamerne og aviserne følger der en seddel, hvorpå der står, hvad hver enkelt adresse skal have. Om de kun skal have aviser, om de skal have reklamer og aviser eller om de ingenting skal modtage. Dertil har vi på hvert sæt reklamer skrevet adresse på, så du ikke er i tvivl om, hvilket reklamesæt den respektive husstand skal have.\n \n\n Men der kan være forskel på, hvordan arbejdet udføres alt efter, om du bor på landet, i byen eller i et villakvarter.\n \n\n Når hver omdeling er overstået, skal du melde ind til os, at du er færdig med omdelingen samt fortælle os, om der har været nogle udfordringer undervejs. Når din omdeling er overstået, kan du vente på, at der igen kommer reklamer og aviser til omdeling.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "82.26%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvornår får jeg leveret reklamer og aviser?",
+        "answer_chatbot": "Reklamer og aviser leveres til din bopæl eller andet aftalt sted senest kl. 15.00 om onsdagen. Jobbet går ud på at omdele reklamer og aviser, som leveres til dig i bundter, og du skal sikre, at de når ud til de rigtige husstande og postkasser. Du omdeler ved hjælp af en trailer, som du kan gå med eller montere på din cykel, og følger den planlagte rute ved hjælp af bundtoverliggeren.",
+        "question_excel": "Hvornår får jeg leveret reklamer og aviser?",
+        "expected_answer": "Reklamer og aviser leveres til din bopæl eller andet aftalt sted senest kl. 15.00 om onsdagen.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "82.80%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan får jeg leveret reklamer og aviser?",
+        "answer_chatbot": "Aviserne og reklamerne leveres som udgangspunkt på din hjemmeadresse, men der er mulighed for at aftale et alternativt leveringssted. Jobbet går ud på at omdele reklamer og aviser, som leveres til dig i bundter, og du skal sikre, at de når ud til de rigtige husstande og postkasser. Du omdeler ved hjælp af en trailer, som du kan gå med eller montere på din cykel, og følger den planlagte rute ved hjælp af bundtoverliggeren.",
+        "question_excel": "Hvornår får jeg leveret reklamer og aviser?",
+        "expected_answer": "Reklamer og aviser leveres til din bopæl eller andet aftalt sted senest kl. 15.00 om onsdagen.",
+        "question_similarity": "82.96%",
+        "answer_similarity": "62.53%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Hvordan skal jeg omdele?",
+        "answer_chatbot": "Vi stiller en trailer til rådighed, som du lægger de færdigpakkede reklamebundter og aviser i. Sørg for at pakke de sidste bundter nederst i traileren og de første i toppen, så de ligger i rækkefølge. Du kan vælge at gå med traileren eller montere den på din cykel og følge den planlagte rute ved hjælp af bundtoverliggeren.",
+        "question_excel": "Hvordan skal jeg omdele?",
+        "expected_answer": "Vi stiller en trailer til rådighed, som du lægger de færdigpakkede reklamebundter og aviser i. Sørg for at pakke de sidste bundter nederst i traileren og de første i toppen, så de ligger i rækkefølge. Du kan vælge at gå med traileren eller den kan monteres på din cykel. Du omdeler ved hjælp af bundtoverliggeren og følger den planlagte rute. Bundtoverliggeren er en hvid seddel, der ligger øverst i hvert reklamebundt. På den står en række praktiske oplysninger, såsom bundtnummer, lønnummer, rutenummer, vægten på dine reklamer, adresser du skal omdele til, samt hvad den enkelte husstand skal modtage af reklamer og aviser. Der er numre på alle dine bundter med reklamer, så sørg altid for, at du starter med bundt nr. 1, og derefter omdeler dem i rækkefølge. Du kan også altid kigge på afleveringslisten, som du finder\n på blivomdeler.nu. På hvert omslag finder du adressen på den husstand, som skal modtage sættet med reklamer.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "96.65%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad gør jeg, hvis jeg ikke modtager aviser på min rute?",
+        "answer_chatbot": "Hvis din rute ikke inkluderer aviser, vil det fremgå af bundtoverliggeren. Hvis din rute inkluderer aviser, og du ikke har modtaget disse, skal du kontakte din distributionsleder inden du påbegynder din omdeling. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Hvad gør jeg, hvis jeg ikke modtager aviser på min rute?",
+        "expected_answer": "Hvis din rute ikke inkluderer aviser, vil det fremgå af bundtoverliggeren. Hvis din rute inkluderer aviser, og du ikke har modtaget disse, skal du kontakte din distributionsleder inden du påbegynder din omdeling. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99",
+        "question_similarity": "100.00%",
+        "answer_similarity": "96.73%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan håndterer jeg Nej Tak-mærker?",
+        "answer_chatbot": "Du skal omdele reklamer, uanset om der er et Nej Tak-mærke, hvis reklamesættet er adresseret til husstanden. Husk at kontrollere på bundtoverliggeren, om husstanden skal modtage avis. Hvis du er i tvivl, kan du kontakte din distributionsleder for yderligere vejledning.",
+        "question_excel": "Hvordan håndterer jeg Nej Tak-mærker?",
+        "expected_answer": "Du skal omdele reklamer, uanset om der er et Nej Tak-mærke, hvis reklamesættet er adresseret til husstanden. Husk at kontrollere på bundtoverliggeren om husstanden skal modtage avis.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "94.20%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad gør jeg med overskydende reklamer og aviser?",
+        "answer_chatbot": "Overskydende reklamer og aviser skal lægges i den udleverede plastiksæk, som chaufføren afhenter ved næste levering.",
+        "question_excel": "Hvornår får jeg leveret reklamer og aviser?",
+        "expected_answer": "Reklamer og aviser leveres til din bopæl eller andet aftalt sted senest kl. 15.00 om onsdagen.",
+        "question_similarity": "77.64%",
+        "answer_similarity": "62.85%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Kan jeg få mere end én fast rute? ",
+        "answer_chatbot": "Ja, du kan godt have mere end én fast rute. Indtil du har afsluttet 9. klasse, må du maksimalt arbejde 2 timer pr. omdelingsdag, altså 4 timer om ugen, da onsdag og torsdag er omdelingsdage. Kontakt din distributionsleder, hvis du ønsker flere faste ruter.",
+        "question_excel": "Kan jeg få mere end én fast rute?",
+        "expected_answer": "Ja du kan godt have mere end en rute. Indtil du har afsluttet 9.klasse må du max arbejde 2 timer pr. omdelingsdag, altså 4 timer om ugen - onsdag og torsdag er omdelingsdage. Kontakt din distributionsleder, hvis du ønsker flere faste ruter. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914",
+        "question_similarity": "100.00%",
+        "answer_similarity": "94.70%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvem kan blive omdeler?",
+        "answer_chatbot": "Alle der er fyldt 13 år har mulighed for at blive omdeler. Der er mange, der tænker, at omdelerjobbet kun er for unge under 18, men det er ikke korrekt, da en stor procentdel af omdelerne faktisk er over 18. Jobbet er for alle aldre, og der er mange forskellige årsager til at være omdeler, såsom at supplere SU, pension eller normal løn.",
+        "question_excel": "Hvem kan blive omdeler?",
+        "expected_answer": "Alle der er fyldt 13 år har mulighed for at blive omdeler. Der er mange, der tænker, at omdelerjobbet kun er for unge under 18, men det er ikke korrekt. En stor procentdel af vores omdelere er faktisk over 18. Den ældste omdeler vi har er for eksempel 86 år. Din alder betyder altså ikke noget.\n Derudover er der mange forskellige årsager til at være omdeler. Ser vi på dem over 18 år, er det alt fra studerende, pensionister til personer med fuldtidsjob. \n Fælles for dem alle er, at de enten bruger det som en ekstra indtægt til at supplere SU’en, pensionen eller den normale løn, men vi har faktisk også voksne, der har det som et deltidsjob og derfor arbejder flere dage om ugen som omdeler.\n Vi kan derfor sagtens sige, at dette job er for alle aldre.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "95.01%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Er der mulighed for fuldtidsarbejde som omdeler?",
+        "answer_chatbot": "Nej, der er ikke mulighed for fuldtidsarbejde som omdeler, da timetallet aldrig kommer op i nærheden af 37 timer om ugen, idet der kun er omdeling onsdag og torsdag.",
+        "question_excel": "Er der mulighed for fuldtidsarbejde som omdeler?",
+        "expected_answer": "Nej. Timetallet kommer desværre aldrig op i nærheden af 37 timer om ugen, idet der kun er omdeling onsdag og torsdag",
+        "question_similarity": "100.00%",
+        "answer_similarity": "89.74%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Kan man søge ruter i andre postnumre end ens eget? ",
+        "answer_chatbot": "Ja, det kan man godt. Kontakt din distributionsleder, hvis du ønsker en fast rute i et andet postnummer.",
+        "question_excel": "Kan man søge ruter i andre postnumre end ens eget?",
+        "expected_answer": "Ja det kan man godt. Kontakt din distributionsleder, hvis du ønsker en fast rute i et andet postnummer. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914",
+        "question_similarity": "100.00%",
+        "answer_similarity": "89.36%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad hvis jeg bruger længere tid på ruten, end I har beregnet?",
+        "answer_chatbot": "Det er vores erfaring, at tiden passer. Hvis du oplever noget andet, så tager vi meget gerne en dialog om, hvordan vi får tid og løn til at passe sammen, da man selvfølgelig skal have løn for den tid, man arbejder. Kontakt din distributionsleder, så vi kan hjælpe dig til at nå ruten inden for den afsatte tid.",
+        "question_excel": "Hvad hvis jeg bruger længere tid på ruten, end I har beregnet?",
+        "expected_answer": "Det er vores erfaring, at tiden passer. Hvis du oplever noget andet, så tager vi meget gerne en dialog om hvordan vi får tid og løn til at passe sammen, da man selvfølgelig skal have løn for den tid man arbejder. Kontakt din distributionsleder, så vi kan hjælpe dig til at nå ruten inden for den afsatte tid. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914",
+        "question_similarity": "100.00%",
+        "answer_similarity": "96.55%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Kan man arbejde hver anden uge?",
+        "answer_chatbot": "Nej, det kan ikke lade sig gøre rent logistisk at skifte rundt fast hver anden uge, så jobbet er hver uge.",
+        "question_excel": "Kan man arbejde hver anden uge?",
+        "expected_answer": "Nej. Det kan ikke lade sig gøre rent logistisk at skifte rundt fast hver anden uge, så jobbet er hver uge",
+        "question_similarity": "100.00%",
+        "answer_similarity": "97.23%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Kan der være to omdelere på samme rute? ",
+        "answer_chatbot": "Nej, vi kan kun ansætte én omdeler pr. rute. Hvis du gerne vil omdele med en ven, kan det være, at vi på sigt kan finde to ruter i forlængelse af hinanden, hvis I gerne vil følges. Du må gerne få hjælp af en ven på din egen rute, men det er dig, der har det endelige ansvar for, at ruten omdeles korrekt.",
+        "question_excel": "Kan der være to omdelere på samme rute?",
+        "expected_answer": "Nej, vi kan kun ansætte én omdeler pr. rute. Hvis du gerne vil omdele med en ven, kan det være at vi på sigt kan finde to ruter i forlængelse af hinanden, hvis I gerne vil følges. Du må gerne få hjælp af en ven på din egen rute, men det er dig der har det endelige ansvar for at ruten omdeles korrekt. Kontakt din distributionsleder, hvis du har spørgsmål til dette. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914",
+        "question_similarity": "100.00%",
+        "answer_similarity": "91.10%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Skal jeg selv pakke mine reklamer og aviser?",
+        "answer_chatbot": "Nej, reklamerne er pakket og klar til omdeling, og aviserne kommer ved siden af. Du skal blot lægge aviser og reklamer i traileren, sørg for at de første bundter ligger øverst i traileren, så du kan tage dem i den rigtige rækkefølge.",
+        "question_excel": "Hvad gør jeg med overskydende reklamer og aviser?",
+        "expected_answer": "Overskydende reklamer og aviser skal lægges i den udleverede plastiksæk, som chaufføren afhenter ved næste levering.",
+        "question_similarity": "80.67%",
+        "answer_similarity": "72.89%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Hvor mange timer må jeg arbejde som 15-17-årig?",
+        "answer_chatbot": "Du må arbejde 2 timer om dagen, hvis du går i folkeskole (indtil du har afsluttet 9. klasse). Hvis du har fri fra skolen på hverdage eller i weekenden, må du arbejde 8 timer om dagen. Hvis du har afsluttet 9. klasse, må du i alt arbejde 8 timer om dagen.",
+        "question_excel": "Hvor mange timer må jeg arbejde som 15-17-årig?",
+        "expected_answer": "Du må arbejde 2 timer om dagen, hvis du går i folkeskole (indtil du har afsluttet 9.klasse)\n - Hvis du har fri fra skolen på hverdage eller i weekenden, må du arbejde 8 timer om dagen - Hvis du har afsluttet 9.klasse må du i alt arbejde 8 timer om dagen.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "99.43%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvor mange timer må jeg arbejde som 13-14-årig?",
+        "answer_chatbot": "Du må arbejde 2 timer om dagen, hvis du går i folkeskole (indtil du har afsluttet 9. klasse). Hvis du har fri fra skolen på hverdage eller i weekenden, må du arbejde 8 timer om dagen.",
+        "question_excel": "Hvor mange timer må jeg arbejde som 15-17-årig?",
+        "expected_answer": "Du må arbejde 2 timer om dagen, hvis du går i folkeskole (indtil du har afsluttet 9.klasse)\n - Hvis du har fri fra skolen på hverdage eller i weekenden, må du arbejde 8 timer om dagen - Hvis du har afsluttet 9.klasse må du i alt arbejde 8 timer om dagen.",
+        "question_similarity": "92.72%",
+        "answer_similarity": "98.11%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan siger man op?",
+        "answer_chatbot": "Når du ikke længere ønsker at omdele for FK Distribution, skal du kontakte din distributionsleder eller depotleder. I aftaler sammen, hvornår du skal omdele sidste gang, og husk, at du har en opsigelsesfrist på 21 dage. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Hvordan siger man op?",
+        "expected_answer": "Når du ikke længere ønsker at omdele for FK Distribution, skal du kontakte din distributionsleder eller depotleder. Her aftaler I sammen, hvornår du skal omdele sidste gang. Husk du har en opsigelsesfrist – den er på 21 dage. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914",
+        "question_similarity": "100.00%",
+        "answer_similarity": "99.52%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Må man gå med sin hund mens man omdeler?",
+        "answer_chatbot": "Det ser vi intet galt i, så længe du har godt styr på din hund og den ikke er aggressiv. Du har selv ansvaret for din hunds opførsel.",
+        "question_excel": "Må man gå med sin hund mens man omdeler?",
+        "expected_answer": "Det ser vi intet galt i, så længe du har godt styr på din hund og den ikke er aggressiv hund. Du har selv ansvaret for din hunds opførsel.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "99.78%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad hvis ikke man har et overdækket område aviserne kan leveres til?",
+        "answer_chatbot": "Det hele kan leveres pakket ind i plastik, så vi kan sagtens levere reklamer og aviser til dig, selvom du ikke har et overdækket område. Kontakt din distributionsleder, hvis du har spørgsmål til levering af dine reklamer og aviser. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Hvad hvis ikke man har et overdækket område aviserne kan leveres til?",
+        "expected_answer": "Det hele kan leveres pakket ind i plastik, så vi kan sagtens levere reklamer og aviser til dig, selvom du ikke har et overdækket område. Kontakt din distributionsleder, hvis du har spørgsmål til levering af dine reklamer og aviser. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914",
+        "question_similarity": "100.00%",
+        "answer_similarity": "99.97%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Skal man erstatte de ting, man mister?",
+        "answer_chatbot": "Nej, man kommer ikke til at betale for tingene, hvis de bliver væk. Vi forventer, at du passer på de arbejdsredskaber, vi stiller til rådighed, imens du er ansat hos os. Du skal låse din trailer fast og opbevare din bundtåbner forsvarligt.",
+        "question_excel": "Skal man erstatte de ting, man mister?",
+        "expected_answer": "Nej, man kommer ikke til at betale for tingene, hvis de bliver væk. Vi forventer,at du passer på de arbejdsredskaber, vi stiller til rådighed imens du er ansat hos os. Du skal låse din trailer fast og opbevare din bundtåbner forsvarligt.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "99.94%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Kan man benytte scooter til jobbet?",
+        "answer_chatbot": "Det kan man godt, hvis ruten er til det i forhold til kørselsforhold til postkasserne. Vi har i nogle tilfælde cykeltasker, som du kan bruge, hvis de passer til din scooter. Ellers står man selv for at få fragtet aviserne.",
+        "question_excel": "Kan man benytte scooter til jobbet?",
+        "expected_answer": "Det kan man godt, hvis ruten er til det i forhold til kørselsforhold til postkasserne.\n \n\n Vi har i nogle tilfælde cykeltasker, som du kan bruge, hvis de passer til din scooter. Ellers står man selv for at få fragtet aviserne. Kontakt din distributionsleder for at høre om mulighederne. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914",
+        "question_similarity": "100.00%",
+        "answer_similarity": "93.24%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Kan jeg være omdeler, hvis jeg sidder i kørestol? ",
+        "answer_chatbot": "Det er svært at give et helt entydigt svar på, om du kan være omdeler, hvis du sidder i kørestol. Kontakt din distributionsleder for at høre mere om mulighederne. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Kan jeg være omdeler, hvis jeg sidder i kørestol?",
+        "expected_answer": "Det er svært at give et helt entydigt svar på. Kontakt din distributionsleder for at høre mere. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914",
+        "question_similarity": "100.00%",
+        "answer_similarity": "77.14%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan kommer man ind i en aflåst opgang/lejlighedskompleks? ",
+        "answer_chatbot": "Det er et svært spørgsmål at give et endegyldigt svar på, da det afhænger af mulighederne for den enkelte opgang. Nogle opgange er altid åbne, nogle er åbne i bestemte tidsrum, nogle har vi dørkode eller nøgle til, og nogle bruger vi Bekey til (nøgleapp til din smartphone). Vi ringer altid på ved låste opgange, hvor der ikke er udleveret kode, nøgle eller opgange der ikke har Bekeyadgang.",
+        "question_excel": "Hvordan kommer man ind i en aflåst opgang/lejlighedskompleks?",
+        "expected_answer": "Det er et svært spørgsmål at give et endegyldigt svar på, da det afhænger af mulighederne for den enkelte opgang.\n \n\n Nogle opgange er altid åbne\n Nogle opgange er åbne i bestemte tidsrum\n Nogle opgange har vi dørkode eller nøgle til\n Nogle opgange bruger vi Bekey til (nøgleapp til din smartphone)\n Vi ringer altid på ved en låste opgange, hvor der ikke er udleveret kode, nøgle eller opgange der ikke har Bekeyadgang.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "98.90%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad hvis jeg bruger længere tid på ruten, end I har beregnet?",
+        "answer_chatbot": "Det er vores erfaring, at tiden passer. Hvis du oplever noget andet, så tager vi meget gerne en dialog om, hvordan vi får tid og løn til at passe sammen, da man selvfølgelig skal have løn for den tid, man arbejder. Kontakt din distributionsleder, så vi kan hjælpe dig til at nå ruten inden for den afsatte tid.",
+        "question_excel": "Hvad hvis jeg bruger længere tid på ruten, end I har beregnet?",
+        "expected_answer": "Det er vores erfaring, at tiden passer. Hvis du oplever noget andet, så tager vi meget gerne en dialog om hvordan vi får tid og løn til at passe sammen, da man selvfølgelig skal have løn for den tid man arbejder. Kontakt din distributionsleder, så vi kan hjælpe dig til at nå ruten inden for den afsatte tid. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914",
+        "question_similarity": "100.00%",
+        "answer_similarity": "96.55%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvornår får jeg løn?",
+        "answer_chatbot": "Lønnen bliver udbetalt hver den 10. i måneden eller sidste bankdag inden den 10.",
+        "question_excel": "Hvornår får jeg løn?",
+        "expected_answer": "Lønnen bliver udbetalt hver d. 10. i måneden eller sidste bankdag inden d. 10.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "99.28%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Kan jeg forberede mig inden min omdeling?",
+        "answer_chatbot": "Ja, hver uge kan du se, hvad du skal omdele på blivomdeler.nu under Omdelingsinformation eller som information til dine ruter i appen.",
+        "question_excel": "Kan jeg forberede mig inden min omdeling?",
+        "expected_answer": "Ja, hver uge kan du se hvad du skal omdelere på blivomdeler.nu under Omdelingsinformation eller som information til dine ruter her i appen.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "98.91%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan forbereder jeg mig inden min første omdeling?",
+        "answer_chatbot": "Du forbereder dig inden din første omdeling ved at læse det velkomstmateriale, du har modtaget, og se alle videoerguides i dit onboardingforløb i appen, som du finder på forsiden. Hvis du har spørgsmål ud over det, er du altid velkommen til at kontakte os. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Kan jeg forberede mig inden min omdeling?",
+        "expected_answer": "Ja, hver uge kan du se hvad du skal omdelere på blivomdeler.nu under Omdelingsinformation eller som information til dine ruter her i appen.",
+        "question_similarity": "90.13%",
+        "answer_similarity": "48.74%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Koster det penge at skrive til jer på 1914 / slutmelde via sms?",
+        "answer_chatbot": "Nej, det er gratis at skrive til 1914, da det er et 8-cifret nummer, der er forkortet til et 4-cifret.",
+        "question_excel": "Koster det penge at skrive til jer på 1914 / slutmelde via sms?",
+        "expected_answer": "Nej, det er et 8 cifret nummer der er forkortet til et 4 cifret. Det er gratis at skrive til 1914.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "97.61%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad gør jeg hvis en husstand henvender sig til mig på ruten?",
+        "answer_chatbot": "Hvis en husstand henvender sig til dig på ruten, skal du svare så godt du kan eller henvise dem til at kontakte FK på 7010 4000. Hvis der er akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99.",
+        "question_excel": "Hvad gør jeg hvis en husstand henvender sig til mig på ruten?",
+        "expected_answer": "Du svarer så godt du kan, eller henviser dem til at kontakte FK på 7010 4000. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99",
+        "question_similarity": "100.00%",
+        "answer_similarity": "93.15%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Er det sikkert at åbne de links i sender til mig?",
+        "answer_chatbot": "Ja, når de kommer fra 1914, er det sikkert at åbne de links, vi sender til dig.",
+        "question_excel": "Er det sikkert at åbne de links i sender til mig?",
+        "expected_answer": "Ja, når de kommer fra 1914 er det sikkert at åbne.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "79.77%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad er en APV?",
+        "answer_chatbot": "En APV er en arbejdspladsvurdering, som vi sender ud til vores omdelere, når de har været ansat i 3 måneder. Det gør vi for at sikre, at jobbet er så godt som muligt for dig og andre, og at vi følger de regler, der er i arbejdsmiljøloven.",
+        "question_excel": "Hvad er en APV?",
+        "expected_answer": "En APV er en arbejdspladsvurdering, som vi sender ud til vores omdelere når de har været ansat i 3 måneder. Det gør vi for at sikre, at jobbet er så godt som muligt for dig og andre, og at vi følger de regler der er i arbejdsmiljøloven.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "99.98%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad sker der hvis jeg laver en fejl?",
+        "answer_chatbot": "Hvis du laver en fejl, skal du fortælle det til din distributionsleder, og sammen kan I tage en snak om, hvordan I finder en løsning. Kontakt din distributionsleder for at få hjælp. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Hvad sker der hvis jeg laver en fejl?",
+        "expected_answer": "Så skal du fortælle det til din distributionsleder, og sammen kan I tage en snak om, hvordan I finder en løsning. Kontakt din distributionsleder. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914",
+        "question_similarity": "100.00%",
+        "answer_similarity": "91.71%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad gør jeg hvis jeg bliver syg?",
+        "answer_chatbot": "Hvis du bliver syg, skal du ringe til din distributionsleder så snart du ved, at du ikke er i stand til at omdele din rute. Du kan også spørge din familie og venner, om de kan hjælpe, inden du ringer til os. Du kan kontakte os på 70 10 40 00.",
+        "question_excel": "Hvad gør jeg hvis jeg bliver syg?",
+        "expected_answer": "Så skal du ringe til din distributionsleder hurtigst muligt. Du kan ringe til os på 70 10 40 00",
+        "question_similarity": "100.00%",
+        "answer_similarity": "75.10%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad gør jeg hvis jeg skal holde ferie?",
+        "answer_chatbot": "Du skal melde ferie via feriekalenderen på blivomdeler.nu senest 3 uger før, du skal holde fri. Dette giver os tid til at finde en afløser til din rute, og måske har du selv en afløser, der kan hjælpe. Du kan også ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Hvad gør jeg hvis jeg skal holde ferie?",
+        "expected_answer": "Det skal du melde ind i feriekalenderen på blivomdeler.nu senest 3 uger før du skal holde fri.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "84.18%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Jeg har ikke fået det jeg har bestilt i gaveshoppen, hvad gør jeg?",
+        "answer_chatbot": "Hvis du ikke har modtaget det, du har bestilt fra gaveshoppen, skal du tjekke bekræftelsen på din bestilling. Herefter kan du tage kontakt til bestilling@bonuz.dk for yderligere assistance.",
+        "question_excel": "Jeg har ikke fået det jeg har bestilt i gaveshoppen, hvad gør jeg?",
+        "expected_answer": "Hvis ikke du har modtaget det du har bestilt fra gaveshoppen, skal du tjekke bekræftelsen på din bestilling og herefter kan du tage kontakt til bestilling@bonuz.dk",
+        "question_similarity": "100.00%",
+        "answer_similarity": "98.89%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvorfor har jeg betalt skat",
+        "answer_chatbot": "Hvis du mod forventning har betalt skat af din løn, skyldes det enten, at dit frikort ikke er aktiveret, eller at du har opbrugt dit frikort【152:0†COMMON.txt】.",
+        "question_excel": "Hvorfor har jeg betalt skat",
+        "expected_answer": "Hvis du mod forventning har betalt skat af din løn, skyldes det enten at dit frikort ikke er aktiveret eller at du har opbrugt dit frikort",
+        "question_similarity": "100.00%",
+        "answer_similarity": "96.20%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan får jeg mine feriepenge udbetalt",
+        "answer_chatbot": "Du optjener dine feriepenge løbende, og vi afregner dem til Feriekonto hver måned. For at få udbetalt dine feriepenge, skal du gå til borger.dk og følge anvisningerne der. Hvis du har brug for hjælp, kan du kontakte Feriekonto på telefon 7011 4910【156:0†COMMON.txt】.",
+        "question_excel": "Hvordan får jeg mine feriepenge udbetalt",
+        "expected_answer": "Du skal gå på borger.dk og følge anvisningen, for at få udbetalt dine feriepenge",
+        "question_similarity": "100.00%",
+        "answer_similarity": "79.21%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan låner jeg en trailer?",
+        "answer_chatbot": "Du kan låne en trailer til din omdeling, som vil blive leveret til din adresse inden din første omdeling【160:0†COMMON.txt】.",
+        "question_excel": "Hvordan låner jeg en trailer?",
+        "expected_answer": "Du kan låne en trailer til din omdeling, som vil blive leveret til din adresse inden din første omdeling.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "92.00%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvor stor er vognen/traileren?",
+        "answer_chatbot": "Traileren har følgende mål: Højde 62 cm, bredde 60 cm, og længde 80 cm.",
+        "question_excel": "Hvor stor er vognen/traileren?",
+        "expected_answer": "Traileren har følgende mål:\n \n\n Højde: 62 cm\n Bredde: 60 cm\n Længde: 80 cm",
+        "question_similarity": "100.00%",
+        "answer_similarity": "97.54%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad gør jeg, hvis traileren går i stykker?",
+        "answer_chatbot": "Ring til os, så sørger vi for reparation eller ombytning af traileren. Du kan kontakte os på 70 10 40 00.",
+        "question_excel": "Hvad gør jeg, hvis traileren går i stykker?",
+        "expected_answer": "Ring til os, så sørger vi for reparation eller ombytning. Du kan ringe til os på 70 10 40 00",
+        "question_similarity": "100.00%",
+        "answer_similarity": "85.79%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Min trailer er blevet stjålet, hvad gør jeg?",
+        "answer_chatbot": "Det er hvad der kan ske. Ring til os, så finder vi en løsning. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99.",
+        "question_excel": "Hvad gør jeg, hvis traileren går i stykker?",
+        "expected_answer": "Ring til os, så sørger vi for reparation eller ombytning. Du kan ringe til os på 70 10 40 00",
+        "question_similarity": "77.23%",
+        "answer_similarity": "76.69%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Jeg har ikke modtaget min trailer før min første omdeling",
+        "answer_chatbot": "Hvis du ikke har modtaget din trailer inden din første omdeling, skal du kontakte os med det samme. Ring til os på 70 10 40 00, så vi kan finde en løsning.",
+        "question_excel": "Jeg har ikke modtaget min trailer før min første omdeling",
+        "expected_answer": "Ring til os, så finder vi en løsning. Du kan ringe til os på 70 10 40 00.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "62.16%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Hvordan tjekker jeg, at jeg har modtaget det rigtige antal reklamer og aviser?",
+        "answer_chatbot": "På bundtoverliggeren kan du se antallet af reklamebundter og aviser, du skal omdele. Før hver omdeling er det vigtigt at kontrollere, at du har modtaget det korrekte antal reklamebundter og aviser. Hvis noget mangler, skal du kontakte din distributionsleder.",
+        "question_excel": "Hvornår får jeg leveret reklamer og aviser?",
+        "expected_answer": "Reklamer og aviser leveres til din bopæl eller andet aftalt sted senest kl. 15.00 om onsdagen.",
+        "question_similarity": "75.24%",
+        "answer_similarity": "62.58%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Hvad er en bundtoverligger?",
+        "answer_chatbot": "En bundtoverligger er en hvid seddel, der ligger øverst på hvert reklamebundt. Den indeholder praktiske oplysninger som lønnummer, rutenummer, bundtnummer, vægten på dine reklamer, adresser du skal omdele til, samt hvad den enkelte husstand skal modtage af reklamer og aviser.",
+        "question_excel": "Hvad er en APV?",
+        "expected_answer": "En APV er en arbejdspladsvurdering, som vi sender ud til vores omdelere når de har været ansat i 3 måneder. Det gør vi for at sikre, at jobbet er så godt som muligt for dig og andre, og at vi følger de regler der er i arbejdsmiljøloven.",
+        "question_similarity": "86.64%",
+        "answer_similarity": "35.74%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Hvad er gangrækkefølge?",
+        "answer_chatbot": "Gangrækkefølge er den rækkefølge, reklamerne pakkes i, og dermed den rækkefølge, du skal tage husstandene efter ude på ruten. Du kan godkende eller ændre rækkefølgen på blivomdeler.nu【186:1†COMMON.txt】.",
+        "question_excel": "Hvad er gangrækkefølge?",
+        "expected_answer": "Gangrækkefølge er den rækkefølge, reklamerne pakkes i, og dermed den rækkefølge du skal tage husstandene efter ude på ruten. Du kan godkende eller ændre rækkefølgen her https://blivomdeler.nu/min-omdeling/gangraekkefoelge/",
+        "question_similarity": "100.00%",
+        "answer_similarity": "94.07%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan ændrer jeg min gangrækkefølge?",
+        "answer_chatbot": "Du kan ændre din gangrækkefølge ved at logge ind på blivomdeler.nu. Her kan du godkende eller ændre rækkefølgen, så den passer bedst til din rute.",
+        "question_excel": "Hvordan ændrer jeg min gangrækkefølge?",
+        "expected_answer": "Se hvordan du ændrer din gangrækkefølge her: https://blivomdeler.nu/min-omdeling/gangraekkefoelge/",
+        "question_similarity": "100.00%",
+        "answer_similarity": "65.12%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Hvordan rapporterer jeg problemer på min rute?",
+        "answer_chatbot": "Brug funktionen \"Rutemelding\" i appen for at rapportere problemer som f.eks. fyldte postkasser eller løse hunde. Du kan rutemelde fra forsiden eller via rutekortet.",
+        "question_excel": "Hvordan rapporterer jeg problemer på min rute?",
+        "expected_answer": "Brug funktionen ”Rutemelding” i appen for at rapportere problemer som f.eks. fyldte postkasser eller løse hunde. Du kan rutemelde fra forsiden eller via rutekortet.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "99.97%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Jeg mangler et sæt reklamer, hvad gør jeg?",
+        "answer_chatbot": "Hvis du mangler et sæt reklamer, skal du kontakte din distributionsleder for at få hjælp. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Hvad gør jeg med overskydende reklamer og aviser?",
+        "expected_answer": "Overskydende reklamer og aviser skal lægges i den udleverede plastiksæk, som chaufføren afhenter ved næste levering.",
+        "question_similarity": "75.88%",
+        "answer_similarity": "50.25%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Jeg mangler et reklamebundt, hvad gør jeg?",
+        "answer_chatbot": "Hvis du mangler et reklamebundt, skal du kontakte din distributionsleder for at få hjælp. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Jeg mangler et sæt reklamer, hvad gør jeg?",
+        "expected_answer": "Det melder du ind som rutemelding. Du kan rutemelde fra forsiden eller via rutekortet.",
+        "question_similarity": "97.13%",
+        "answer_similarity": "40.61%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Jeg kan ikke omdele, fordi der er en løs hund, hvad gør jeg?",
+        "answer_chatbot": "Hvis du ikke kan omdele på grund af en løs hund, skal du bruge funktionen \"Rutemelding\" i appen for at rapportere problemet.",
+        "question_excel": "Jeg kan ikke omdele, fordi der er en løs hund, hvad gør jeg?",
+        "expected_answer": "Hvis det er utrygt at gå til postkassen, skal du passe på dig selv og melde det ind i rutemelding. Hvis du har haft en utryg oplevelse på din rute, skal du endelig tage kontakt til din distributionsleder. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99",
+        "question_similarity": "100.00%",
+        "answer_similarity": "48.46%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Postkassen er fyldt, hvad gør jeg?",
+        "answer_chatbot": "Hvis postkassen er fyldt, skal du bruge funktionen \"Rutemelding\" i appen for at rapportere problemet.",
+        "question_excel": "Postkassen er fyldt, hvad gør jeg?",
+        "expected_answer": "Du melder det ind i rutemelding, og tager sættet med retur. Når du kommer hjem, lægger du alt overskud i den udleverede plastikpose, så tager vores chauffør det med retur når der leveres ved dig næste gang.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "48.95%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Hvordan slutmelder jeg min rute?",
+        "answer_chatbot": "Du kan slutmelde din rute fra forsiden eller rutekortet i appen, eller ved at sende en SMS med ordet \"slut\" til 1914.",
+        "question_excel": "Hvordan slutmelder jeg min rute?",
+        "expected_answer": "Du kan slutmelde fra forsiden eller rutekortet i appen eller sende en SMS med ordet ”slut” til 1914",
+        "question_similarity": "100.00%",
+        "answer_similarity": "95.12%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvorfor skal jeg slutmelde? ",
+        "answer_chatbot": "Du skal slutmelde, så vi ved, at du er færdig med din rute, og vi kan registrere din arbejdstid korrekt. Det hjælper os med at sikre, at du får den rigtige løn for dit arbejde.",
+        "question_excel": "Hvorfor skal jeg slutmelde?",
+        "expected_answer": "Det er vigtigt, at du slutmelder din rute efter hver omdeling, da vi bruger oplysningerne i vores ugentlige kvalitetsundersøgelser. Du kan slutmelde fra forsiden eller rutekortet i appen eller sende en SMS med ordet ”slut” til 1914 , så snart du er har færdigomdelt.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "67.43%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Hvordan søger jeg ekstraruter/afløserruter?",
+        "answer_chatbot": "Du kan altid se, om der er ledige ekstraruter i nærheden af dig på blivomdeler.nu under \"Min side\" -> \"X-tra ruter\". Her kan du ønske en ekstra rute, men bemærk, at du ikke er tildelt ruten, før du har fået besked fra din distributionsleder.",
+        "question_excel": "Hvordan søger jeg ekstraruter/afløserruter?",
+        "expected_answer": "Du kan altid se, om der er ledige ekstraruter i nærheden af dig her https://blivomdeler.nu/min-side/x-tra-ruter/. Her kan du ønske en ekstra rute - bemærk du ikke er tildelt ruten, før du har fået besked fra din distributionsleder.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "94.51%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Kan jeg tage ekstra vagter? ",
+        "answer_chatbot": "Ja, du kan tage ekstra vagter ved at se, om der er ledige ekstraruter i nærheden af dig på blivomdeler.nu under \"Min side\" -> \"X-tra ruter\". Du kan ønske en ekstra rute, men du er først tildelt ruten, når du har fået besked fra din distributionsleder.",
+        "question_excel": "Kan jeg tage ekstra vagter?",
+        "expected_answer": "Du kan altid se, om der er ledige ekstraruter i nærheden af dig her https://blivomdeler.nu/min-side/x-tra-ruter/. Her kan du ønske en ekstrarute - bemærk du ikke er tildelt ruten, før du har fået besked fra din distributionsleder.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "87.33%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvem kontakter jeg, hvis jeg har spørgsmål?",
+        "answer_chatbot": "Hvis du har spørgsmål, kan du kontakte din distributionsleder. Du kan også ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Hvem kontakter jeg, hvis jeg har spørgsmål?",
+        "expected_answer": "Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914:\n Mandag - torsdag kl. 08:30 - 16.00\n Fredag kl. 08:30 - 15.30\n Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99",
+        "question_similarity": "100.00%",
+        "answer_similarity": "78.60%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan kontakter jeg FK Distribution?",
+        "answer_chatbot": "Du kan kontakte FK Distribution ved at ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Hvordan kontakter jeg FK Distribution?",
+        "expected_answer": "Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914:\n Mandag - torsdag kl. 08:30 - 16.00\n Fredag kl. 08:30 - 15.30\n Ved akutte problemer på omdelingsdage (onsdag og torsdag), kan du ringe til akuttelefonen på 70 60 30 99 kl. 16.00-20.00.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "83.32%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvornår kan jeg ringe til min distributionsleder?",
+        "answer_chatbot": "Du kan ringe til din distributionsleder mandag til torsdag fra kl. 08:30 til 16:00 og fredag fra kl. 08:30 til 15:30. Ved akutte problemer på omdelingsdage (onsdag og torsdag), kan du ringe til akuttelefonen på 70 60 30 99 mellem kl. 16:00 og 20:00【220:0†COMMON.txt】.",
+        "question_excel": "Hvornår kan jeg ringe til min distributionsleder?",
+        "expected_answer": "Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914:\n Mandag - torsdag kl. 08:30 - 16.00\n Fredag kl. 08:30 - 15.30\n Ved akutte problemer på omdelingsdage (onsdag og torsdag), kan du ringe til akuttelefonen på 70 60 30 99 kl. 16.00-20.00.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "82.30%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad gør jeg, hvis jeg mangler reklamebundter eller har andre problemer?",
+        "answer_chatbot": "Hvis du mangler reklamebundter eller har andre problemer, skal du kontakte din distributionsleder for at få hjælp. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Jeg mangler et sæt reklamer, hvad gør jeg?",
+        "expected_answer": "Det melder du ind som rutemelding. Du kan rutemelde fra forsiden eller via rutekortet.",
+        "question_similarity": "88.25%",
+        "answer_similarity": "40.17%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Jeg har været ude for et uheld, hvad gør jeg?",
+        "answer_chatbot": "Hvis du uheldigvis kommer ud for en arbejdsskade, skal du kontakte din distributionsleder, der sørger for at hjælpe dig med en eventuel anmeldelse, og som orienterer dine arbejdsmiljørepræsentanter. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99【226:0†COMMON.txt】.",
+        "question_excel": "Jeg har været ude for et uheld, hvad gør jeg?",
+        "expected_answer": "Hvis du uheldigvis kommer ud for en arbejdsskade, skal du kontakte din distributionsleder, der sørger for at hjælpe dig med en eventuel anmeldelse, og som orienterer dine arbejdsmiljørepræsentanter. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99",
+        "question_similarity": "100.00%",
+        "answer_similarity": "99.54%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Jeg har fået en arbejdsskade, hvad gør jeg?",
+        "answer_chatbot": "Hvis du har fået en arbejdsskade, skal du kontakte din distributionsleder, der vil hjælpe dig med en eventuel anmeldelse og orientere dine arbejdsmiljørepræsentanter. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Jeg har været ude for et uheld, hvad gør jeg?",
+        "expected_answer": "Hvis du uheldigvis kommer ud for en arbejdsskade, skal du kontakte din distributionsleder, der sørger for at hjælpe dig med en eventuel anmeldelse, og som orienterer dine arbejdsmiljørepræsentanter. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914. Ved akut brug for hjælp på omdelingsdage (onsdag og torsdag) mellem kl. 16.00 og 20.00, kan du ringe til akuttelefonen på 70 60 30 99",
+        "question_similarity": "75.82%",
+        "answer_similarity": "97.01%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan logger jeg ind på blivomdeler.nu?",
+        "answer_chatbot": "Du logger ind på blivomdeler.nu ved at bruge dit lønnummer og adgangskode. Hvis du har glemt din adgangskode, kan du få tilsendt en midlertidig kode ved at klikke på \"Har du glemt din adgangskode?\" ved log ind【232:1†COMMON.txt】.",
+        "question_excel": "Hvordan logger jeg ind på blivomdeler.nu?",
+        "expected_answer": "Du bruger dit lønnummer og adgangskode. Hvis du har glemt din adgangskode, kan du få tilsendt en midlertidig kode. Klik på \"Har du glemt din adgangskode?\" ved log ind",
+        "question_similarity": "100.00%",
+        "answer_similarity": "96.19%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Jeg har glemt min adgangskode til blivomdeler.nu, hvad gør jeg?",
+        "answer_chatbot": "Hvis du har glemt din adgangskode til blivomdeler.nu, kan du få tilsendt en midlertidig kode ved at klikke på \"Har du glemt din adgangskode?\" ved log ind.",
+        "question_excel": "Jeg har glemt min adgangskode til blivomdeler.nu, hvad gør jeg?",
+        "expected_answer": "Hvis du har glemt din adgangskode, kan du få tilsendt en midlertidig kode ved at trykke på \"Glemt adgangskode\"",
+        "question_similarity": "100.00%",
+        "answer_similarity": "97.11%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad tjener jeg i gennemsnit om måneden?",
+        "answer_chatbot": "Jeg kan ikke fortælle et decideret gennemsnit, da det afhænger af hvor lang din rute er, hvor mange ruter du har, mængden af reklamer/aviser på hver enkelt omdeling og andre faktorer【238:0†COMMON.txt】.",
+        "question_excel": "Hvad tjener jeg i gennemsnit om måneden?",
+        "expected_answer": "Jeg kan ikke fortælle et decideret gennemsnit, da det afhænger af hvor lang din rute er, hvor mange ruter du har, mængden af reklamer/aviser på hver enkelt omdeling og andre faktorer.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "95.04%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvor tit får jeg løn?",
+        "answer_chatbot": "Lønnen bliver udbetalt hver den 10. i måneden eller sidste bankdag inden den 10.",
+        "question_excel": "Hvornår får jeg løn?",
+        "expected_answer": "Lønnen bliver udbetalt hver d. 10. i måneden eller sidste bankdag inden d. 10.",
+        "question_similarity": "89.45%",
+        "answer_similarity": "99.28%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvornår får jeg udbetalt løn?",
+        "answer_chatbot": "Lønnen bliver udbetalt hver den 10. i måneden eller sidste bankdag inden den 10.",
+        "question_excel": "Hvornår får jeg løn?",
+        "expected_answer": "Lønnen bliver udbetalt hver d. 10. i måneden eller sidste bankdag inden d. 10.",
+        "question_similarity": "98.06%",
+        "answer_similarity": "99.28%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Optjener jeg feriepenge?",
+        "answer_chatbot": "Ja, du optjener feriepenge løbende, og vi afregner dem til Feriekonto hver måned.",
+        "question_excel": "Hvordan får jeg mine feriepenge udbetalt",
+        "expected_answer": "Du skal gå på borger.dk og følge anvisningen, for at få udbetalt dine feriepenge",
+        "question_similarity": "86.89%",
+        "answer_similarity": "60.94%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Kan I betale løn til udenlandsk konto eller skal man have en dansk bankkonto?",
+        "answer_chatbot": "Vi udbetaler kun til danske konti【248:1†COMMON.txt】.",
+        "question_excel": "Kan I betale løn til udenlandsk konto eller skal man have en dansk bankkonto?",
+        "expected_answer": "Vi udbetaler kun til danske konti",
+        "question_similarity": "100.00%",
+        "answer_similarity": "80.22%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Jeg har et socialt frikort kan man bruge det hos jer? (Dvs. man ikke skal betale skat)",
+        "answer_chatbot": "Ja, du kan godt bruge dit sociale frikort hos os【248:2†COMMON.txt】.",
+        "question_excel": "Jeg har et \"socialt frikort\" kan man bruge det hos jer? (Dvs. man ikke skal betale skat)",
+        "expected_answer": "Ja det kan du godt. Kontakt os for yderligere information. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914",
+        "question_similarity": "99.10%",
+        "answer_similarity": "50.56%",
+        "matching": "Answer Mismatch"
+    },
+    {
+        "question_postman": "Indebetales der til pension og fritvalgskonto?",
+        "answer_chatbot": "Nej, der indebetales ikke til pension eller fritvalgskonto【248:3†COMMON.txt】.",
+        "question_excel": "Indebetales der til pension og fritvalgskonto?",
+        "expected_answer": "Der indbetales ikke til pension eller fritvalgskonto",
+        "question_similarity": "100.00%",
+        "answer_similarity": "87.30%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan er jeg forsikret?",
+        "answer_chatbot": "Som omdeler hos os er du forsikret, mens du arbejder. Du er omfattet af en lovpligtig arbejdsskadeforsikring og en ansvarsforsikring. Arbejdsskadeforsikringen dækker personskader sket ved en ulykke under arbejdet, og ansvarsforsikringen dækker skader, du måtte påføre andre under udførelsen af dit arbejde【256:0†COMMON.txt】.",
+        "question_excel": "Hvordan er jeg forsikret?",
+        "expected_answer": "Som omdeler hos os er du forsikret, mens du arbejder. Du er omfattet af en lovpligtig arbejdsskadeforsikring og en ansvarsforsikring. Arbejdsskadeforsikringen omfatter skade på din person sket ved en ulykke. Ulykken skal ske, mens du arbejder og være en følge af de forhold, arbejdet foregår under. Ansvarsforsikringen omfatter skader, du måtte påføre andre (person- og/eller tingskade), under udførelsen af dit arbejde. Sker der en skade, skal du straks kontakte din distributionsleder og informere om det. Det er en god idé at skrive tid og sted ned og evt. tage et billede af skaden, hvis det er muligt. Påtag dig aldrig ansvaret for skaden, men henvis til FK Distribution og vores forsikringsselskab, som er IF Skadeforsikring.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "96.25%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan får jeg udbetalt feriepenge?",
+        "answer_chatbot": "For at få udbetalt dine feriepenge, skal du gå til borger.dk og følge anvisningerne der. Hvis du har brug for hjælp, kan du kontakte Feriekonto på telefon 7011 4910.",
+        "question_excel": "Hvordan får jeg mine feriepenge udbetalt",
+        "expected_answer": "Du skal gå på borger.dk og følge anvisningen, for at få udbetalt dine feriepenge",
+        "question_similarity": "98.04%",
+        "answer_similarity": "78.75%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan får man en anbefaling?",
+        "answer_chatbot": "Hos FK Distribution giver vi meget gerne vores omdelere en anbefaling, når de stopper med jobbet som omdeler. Det kræver, at du har gjort en god indsats i dit job og været ansat i en længere periode hos os. Anbefalingen kommer til dig kort efter din sidste omdeling, hvis du har opfyldt disse kriterier【262:0†COMMON.txt】.",
+        "question_excel": "Hvordan får man en anbefaling?",
+        "expected_answer": "Hos FK Distribution giver vi meget gerne vores omdelere en anbefaling med på vejen, når de stopper med jobbet som omdeler. Dog kræver det, at du som omdeler har gjort en god indsats i dit job som omdeler samt været ansat i en længere periode hos os.\n Der kommer en anbefaling til dig, hvis du har opfyldt ovenstående kriterier, kort efter din sidste omdeling.",
+        "question_similarity": "100.00%",
+        "answer_similarity": "95.54%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvem er min arbejdsmiljørepræsentant?",
+        "answer_chatbot": "Hvis du har spørgsmål til din arbejdspladsvurdering (APV) eller det generelle arbejdsmiljø, skal du kontakte en af dine arbejdsmiljørepræsentanter: Gitte Hansen eller Monica Rygaard Sjørup på arbejdsmiljo.omdeler@fk.dk【266:0†COMMON.txt】.",
+        "question_excel": "Hvem er min arbejdsmiljørepræsentant?",
+        "expected_answer": "Hvis du har spørgsmål til din arbejdspladsvurdering (APV) eller det generelle arbejdsmiljø, skal du kontakte en af dine arbejdsmiljørepræsentanter: Gitte Hansen eller Monica Rygaard Sjørup på arbejdsmiljo.omdeler@fk.dk",
+        "question_similarity": "100.00%",
+        "answer_similarity": "99.15%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvad gør jeg, hvis jeg er syg?",
+        "answer_chatbot": "Hvis du bliver syg, skal du ringe til din distributionsleder så snart du ved, at du ikke er i stand til at omdele din rute. Du kan også spørge din familie og venner, om de kan hjælpe, inden du ringer til os. Du kan kontakte os på 70 10 40 00.",
+        "question_excel": "Hvad gør jeg hvis jeg bliver syg?",
+        "expected_answer": "Så skal du ringe til din distributionsleder hurtigst muligt. Du kan ringe til os på 70 10 40 00",
+        "question_similarity": "98.79%",
+        "answer_similarity": "75.10%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvordan melder jeg ferie?",
+        "answer_chatbot": "Du skal melde ferie via feriekalenderen på blivomdeler.nu senest 3 uger før, du skal holde fri. Dette giver os tid til at finde en afløser til din rute, og måske har du selv en afløser, der kan hjælpe. Du kan også ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Hvad gør jeg hvis jeg skal holde ferie?",
+        "expected_answer": "Det skal du melde ind i feriekalenderen på blivomdeler.nu senest 3 uger før du skal holde fri.",
+        "question_similarity": "83.15%",
+        "answer_similarity": "84.18%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Jeg skal have fri, hvad gør jeg?",
+        "answer_chatbot": "Du skal melde fri via feriekalenderen på blivomdeler.nu senest 3 uger før, du skal holde fri. Dette giver os tid til at finde en afløser til din rute, og måske har du selv en afløser, der kan hjælpe. Du kan også ringe til os på 70 10 40 00 eller sende en sms til 1914.",
+        "question_excel": "Jeg skal have fri, hvad gør jeg?",
+        "expected_answer": "Meld fridage ind via https://blivomdeler.nu/min-side/meld-ferie/ eller ring til din distributionsleder senest 3 uger før, du skal have fri, så vi kan nå at finde en afløser til din rute. Måske du selv har en afløser, som kan hjælpe. Du kan ringe til os på 70 10 40 00 eller sende en sms til 1914",
+        "question_similarity": "100.00%",
+        "answer_similarity": "84.89%",
+        "matching": "Semantic Match"
+    },
+    {
+        "question_postman": "Hvornår skal jeg senest melde ferie? ",
+        "answer_chatbot": "Du skal melde ferie senest 3 uger før, du skal holde fri, via feriekalenderen på blivomdeler.nu.",
+        "question_excel": "Hvad gør jeg hvis jeg skal holde ferie?",
+        "expected_answer": "Det skal du melde ind i feriekalenderen på blivomdeler.nu senest 3 uger før du skal holde fri.",
+        "question_similarity": "77.60%",
+        "answer_similarity": "92.62%",
+        "matching": "Semantic Match"
+    }
+]
