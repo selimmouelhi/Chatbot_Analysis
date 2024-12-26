@@ -19,3 +19,5 @@ __pycache__/
 # Ignore the report files if dynamically generated
 *.html
 *.xlsx
+
+.DS_Store
