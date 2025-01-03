@@ -1,6 +1,7 @@
 from utilities.api_requests import make_api_request
 from utilities.question_formatter import clean_question, create_question_json, assemble_chunks
 from utilities.file_operations import save_to_json
+import os
 
 def generate_out_of_context_questions(num_questions, context=""):
     """
@@ -36,8 +37,9 @@ def main():
     print("Welcome to the Out-of-Context Question Generator!")
     num_questions = int(input("How many questions do you want to generate? "))
     context = input("Provide a context (optional): ").strip()
+    base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..","generated_questions"))
     questions = generate_out_of_context_questions(num_questions, context)
-    save_to_json(questions, "out_of_context_questions.json")
+    save_to_json(questions, "out_of_context_questions.json",base_path)
     print("\nQuestions have been successfully saved!")
 
 

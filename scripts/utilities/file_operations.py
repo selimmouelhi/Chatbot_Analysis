@@ -1,21 +1,27 @@
 import os
 import json
 
-def save_to_json(data, filename):
+def save_to_json(data, filename, base_path):
     """
-    Save data to a JSON file in the 'generated_questions' folder, which is at the same level as the 'scripts' folder.
+    Save data to a JSON file in the specified base path. If the file already exists,
+    replace its content; otherwise, create a new file.
     :param data: The data to save.
     :param filename: The name of the JSON file.
+    :param base_path: The base folder where the file should be saved.
     """
-    # Navigate to the folder at the same level as 'scripts'
-    base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "generated_questions"))
-    os.makedirs(base_path, exist_ok=True)  # Create 'generated_questions' folder if it doesn't exist
+    # Construct the full file path directly to the generated_questions folder
+    folder = os.path.abspath(base_path)
+    os.makedirs(folder, exist_ok=True)  # Ensure the folder exists
+    filepath = os.path.join(folder, filename)
 
-    # Construct the full file path
-    filepath = os.path.join(base_path, filename)
+    # Check if the file exists
+    if os.path.exists(filepath):
+        print(f"File {filename} already exists. Replacing its content...")
+    else:
+        print(f"File {filename} does not exist. Creating a new file...")
 
-    # Write data to the JSON file
+    # Write or replace the content of the file
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
-    
+
     print(f"Data saved to {filepath}")
